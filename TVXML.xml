@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <server>http://rev.rprotv.com:25443</server>
+  <items>
+    <stream_id>30853</stream_id>
+    <epg_id>S4C.uk</epg_id>
+    <name>|.UK.| S4C</name>
+  </items>
+  <items>
+    <stream_id>30854</stream_id>
+    <epg_id>PBSAmerica.uk</epg_id>
+    <name>|.UK.| PBS AMERICA</name>
+  </items>
+  <items>
+    <stream_id>30856</stream_id>
+    <epg_id>BBCNews.uk</epg_id>
+    <name>|.UK.| BBC NEWS</name>
+  </items>
+  <items>
+    <stream_id>30861</stream_id>
+    <epg_id>ChannelAka.uk</epg_id>
+    <name>|.UK.|D CHANNEL AKA</name>
+  </items>
+  <items>
+    <stream_id>30864</stream_id>
+    <epg_id>AMC.uk</epg_id>
+    <name>|.UK.| AMC</name>
+  </items>
+  <items>
+    <stream_id>30866</stream_id>
+    <epg_id>SkySportsBoxOffice.uk</epg_id>
+    <name>|.UK.| BOX OFFICE HD </name>
+  </items>
+  <items>
+    <stream_id>30869</stream_id>
+    <epg_id>skysportso</epg_id>
+    <name>|.UK.| BOX OFFICE HD 1</name>
+  </items>
+  <items>
+    <stream_id>30870</stream_id>
+    <epg_id>BBC1.uk</epg_id>
+    <name>|.UK.| BBC ONE FHD</name>
+  </items>
+  <items>
+    <stream_id>30872</stream_id>
+    <epg_id>SkyCinemaHits.uk</epg_id>
+    <name>|.UK.| SKY CINEMA HITS FHD</name>
+  </items>
+  <items>
+    <stream_id>30876</stream_id>
+    <epg_id>ITV4.uk</epg_id>
+    <name>|.UK.| ITV 4  FHD</name>
+  </items>
+  <items>
+    <stream_id>30877</stream_id>
+    <epg_id>ITV3.uk</epg_id>
+    <name>|.UK.| ITV 2 HD</name>
+  </items>
+  <items>
+    <stream_id>30879</stream_id>
+    <epg_id>ITV1.uk</epg_id>
+    <name>|.UK.|  ITV  1</name>
+  </items>
+  <items>
+    <stream_id>30881</stream_id>
+    <epg_id>STV.uk</epg_id>
+    <name>|.UK.| STV FHD</name>
+  </items>
+  <items>
+    <stream_id>30884</stream_id>
+    <epg_id>BBCNews.uk</epg_id>
+    <name>|.UK.| BBC NEWS FHD</name>
+  </items>
+  <items>
+    <stream_id>30886</stream_id>
+    <epg_id>ITV3.uk</epg_id>
+    <name>|.UK.|  ITV 3 HD</name>
+  </items>
+  <items>
+    <stream_id>30888</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| CNN HD</name>
+  </items>
+  <items>
+    <stream_id>30889</stream_id>
+    <epg_id>12Keshet.il</epg_id>
+    <name>|.UK.|D CAPITAL TV</name>
+  </items>
+  <items>
+    <stream_id>30895</stream_id>
+    <epg_id>CITV.uk</epg_id>
+    <name>|.UK.|D CITV</name>
+  </items>
+  <items>
+    <stream_id>30898</stream_id>
+    <epg_id>BBC1.uk</epg_id>
+    <name>|.UK.| BBC ONE</name>
+  </items>
+  <items>
+    <stream_id>30899</stream_id>
+    <epg_id>BBCScotland.uk</epg_id>
+    <name>|.UK.| BBC SCOTLAND FHD</name>
+  </items>
+  <items>
+    <stream_id>30900</stream_id>
+    <epg_id>CBBC.uk</epg_id>
+    <name>|.UK.| CBBC</name>
+  </items>
+  <items>
+    <stream_id>30901</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| PICK</name>
+  </items>
+  <items>
+    <stream_id>30908</stream_id>
+    <epg_id>CBSJustice.uk</epg_id>
+    <name>|.UK.| CBS JUSTICE</name>
+  </items>
+  <items>
+    <stream_id>30909</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| CBS DRAMA</name>
+  </items>
+  <items>
+    <stream_id>30910</stream_id>
+    <epg_id>CBSReality.uk</epg_id>
+    <name>|.UK.| CBS REALITY</name>
+  </items>
+  <items>
+    <stream_id>30911</stream_id>
+    <epg_id>DiscoveryChannel.uk</epg_id>
+    <name>|.UK.| DISCOVERY FHD</name>
+  </items>
+  <items>
+    <stream_id>30912</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.|D DISCOVERY HISTORY FHD</name>
+  </items>
+  <items>
+    <stream_id>30913</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| DISCOVERY SCIENCE</name>
+  </items>
+  <items>
+    <stream_id>30919</stream_id>
+    <epg_id>DiscoveryDMAX.uk</epg_id>
+    <name>|.UK.|D DMAX</name>
+  </items>
+  <items>
+    <stream_id>30920</stream_id>
+    <epg_id>Drama.uk</epg_id>
+    <name>|.UK.| DRAMA</name>
+  </items>
+  <items>
+    <stream_id>30921</stream_id>
+    <epg_id>E4.uk</epg_id>
+    <name>|.UK.| E4</name>
+  </items>
+  <items>
+    <stream_id>30922</stream_id>
+    <epg_id>Film4.uk</epg_id>
+    <name>|.UK.| FILM4 FHD</name>
+  </items>
+  <items>
+    <stream_id>30923</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| GOLD</name>
+  </items>
+  <items>
+    <stream_id>30925</stream_id>
+    <epg_id>DiscoveryHomeHealth.co</epg_id>
+    <name>|.UK.|D HOME &amp; HEALTH</name>
+  </items>
+  <items>
+    <stream_id>30927</stream_id>
+    <epg_id>ITVBe.uk</epg_id>
+    <name>|.UK.| ITV BE HD</name>
+  </items>
+  <items>
+    <stream_id>30928</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.|D LONDON LIVE FHD</name>
+  </items>
+  <items>
+    <stream_id>30931</stream_id>
+    <epg_id>SkySciFiHorror.uk</epg_id>
+    <name>|.UK.| SKY CINEMA SCI-FI &amp; HORROR FHD</name>
+  </items>
+  <items>
+    <stream_id>30932</stream_id>
+    <epg_id>SkyMoviesActionandAdventure.uk</epg_id>
+    <name>|.UK.| SKY CINEMA ACTION FHD</name>
+  </items>
+  <items>
+    <stream_id>30933</stream_id>
+    <epg_id>SkyComedy.uk</epg_id>
+    <name>|.UK.| SKY CINEMA COMEDY FHD</name>
+  </items>
+  <items>
+    <stream_id>30934</stream_id>
+    <epg_id>SkyMoviesDisney.uk</epg_id>
+    <name>|.UK.|D SKY CINEMA DISNEY FHD</name>
+  </items>
+  <items>
+    <stream_id>30935</stream_id>
+    <epg_id>SkyMoviesFamily.uk</epg_id>
+    <name>|.UK.| SKY CINEMA FAMILY FHD</name>
+  </items>
+  <items>
+    <stream_id>30936</stream_id>
+    <epg_id>SkyMoviesModernGreats.uk</epg_id>
+    <name>|.UK.| SKY CINEMA GREATS FHD</name>
+  </items>
+  <items>
+    <stream_id>30937</stream_id>
+    <epg_id>SkyMoviesPremiere.uk</epg_id>
+    <name>|.UK.| SKY CINEMA PREMIER FHD</name>
+  </items>
+  <items>
+    <stream_id>30938</stream_id>
+    <epg_id>SkyMoviesDrama.uk</epg_id>
+    <name>|.UK.| SKY CINEMA DRAMA FHD</name>
+  </items>
+  <items>
+    <stream_id>30939</stream_id>
+    <epg_id>SkyMoviesCrimeandThriller.uk</epg_id>
+    <name>|.UK.| SKY CINEMA THRILLER FHD</name>
+  </items>
+  <items>
+    <stream_id>30944</stream_id>
+    <epg_id>SkySportsNews.uk</epg_id>
+    <name>|.UK.| SKY SPORT NEWS FHD</name>
+  </items>
+  <items>
+    <stream_id>30946</stream_id>
+    <epg_id>Syfy.uk</epg_id>
+    <name>|.UK.| SYFY</name>
+  </items>
+  <items>
+    <stream_id>30948</stream_id>
+    <epg_id>UTV.uk</epg_id>
+    <name>|.UK.|D UTV HD</name>
+  </items>
+  <items>
+    <stream_id>30949</stream_id>
+    <epg_id>AnimalPlanet.uk</epg_id>
+    <name>|.UK.| ANIMAL PLANET HD</name>
+  </items>
+  <items>
+    <stream_id>30951</stream_id>
+    <epg_id>CNN.uk</epg_id>
+    <name>|.UK.|D CNN</name>
+  </items>
+  <items>
+    <stream_id>30952</stream_id>
+    <epg_id>ComedyCentral.uk</epg_id>
+    <name>|.UK.| COMEDY CENTRAL</name>
+  </items>
+  <items>
+    <stream_id>30953</stream_id>
+    <epg_id>Dave.uk</epg_id>
+    <name>|.UK.| DAVE</name>
+  </items>
+  <items>
+    <stream_id>30954</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| EDEN</name>
+  </items>
+  <items>
+    <stream_id>30955</stream_id>
+    <epg_id>FOXNews.us</epg_id>
+    <name>|.UK.| FOX NEWS</name>
+  </items>
+  <items>
+    <stream_id>30956</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| LIFE TIME FHD</name>
+  </items>
+  <items>
+    <stream_id>30959</stream_id>
+    <epg_id>More4.uk</epg_id>
+    <name>|.UK.| MORE 4 FHD</name>
+  </items>
+  <items>
+    <stream_id>30964</stream_id>
+    <epg_id>SkyCinemaSpecial.de</epg_id>
+    <name>|.UK.| SKY CINEMA CHRISTMAS FHD</name>
+  </items>
+  <items>
+    <stream_id>30968</stream_id>
+    <epg_id>Yesterday.uk</epg_id>
+    <name>|.UK.| YESTERDAY</name>
+  </items>
+  <items>
+    <stream_id>30972</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.|D NATIONAL GEOGRAPHIC</name>
+  </items>
+  <items>
+    <stream_id>30973</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| TCM FHD</name>
+  </items>
+  <items>
+    <stream_id>30977</stream_id>
+    <epg_id>CBeebies.uk</epg_id>
+    <name>|.UK.| CBEEBIES</name>
+  </items>
+  <items>
+    <stream_id>30978</stream_id>
+    <epg_id>SkyMoviesSelect.uk</epg_id>
+    <name>|.UK.| SKY CINEMA SELECT</name>
+  </items>
+  <items>
+    <stream_id>30979</stream_id>
+    <epg_id>SkySciFiHorror.uk</epg_id>
+    <name>|.UK.| SKY CINEMA SCI-FI &amp; HORROR</name>
+  </items>
+  <items>
+    <stream_id>30980</stream_id>
+    <epg_id>SkyMoviesPremiere.uk</epg_id>
+    <name>|.UK.| SKY CINEMA PREMIER</name>
+  </items>
+  <items>
+    <stream_id>30981</stream_id>
+    <epg_id>SkyMoviesFamily.uk</epg_id>
+    <name>|.UK.| SKY CINEMA FAMILY</name>
+  </items>
+  <items>
+    <stream_id>30983</stream_id>
+    <epg_id>SkyMoviesDisney.uk</epg_id>
+    <name>|.UK.|D SKY CINEMA DISNEY</name>
+  </items>
+  <items>
+    <stream_id>30984</stream_id>
+    <epg_id>SkyMoviesCrimeandThriller.uk</epg_id>
+    <name>|.UK.| SKY CINEMA THRILLER</name>
+  </items>
+  <items>
+    <stream_id>30985</stream_id>
+    <epg_id>SkyComedy.uk</epg_id>
+    <name>|.UK.| SKY CINEMA COMEDY</name>
+  </items>
+  <items>
+    <stream_id>30986</stream_id>
+    <epg_id>SkyMoviesActionandAdventure.uk</epg_id>
+    <name>|.UK.| SKY CINEMA ACTION</name>
+  </items>
+  <items>
+    <stream_id>30991</stream_id>
+    <epg_id>ITV1.uk</epg_id>
+    <name>|.UK.|  ITV FHD</name>
+  </items>
+  <items>
+    <stream_id>31004</stream_id>
+    <epg_id>SkyNews.uk</epg_id>
+    <name>|.UK.| SKY NEWS FHD</name>
+  </items>
+  <items>
+    <stream_id>31006</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.|D VICELAND</name>
+  </items>
+  <items>
+    <stream_id>31007</stream_id>
+    <epg_id>SonyMoviesClassicPlus1.uk</epg_id>
+    <name>|.UK.|D SONY MOVIES +1</name>
+  </items>
+  <items>
+    <stream_id>31008</stream_id>
+    <epg_id>SkyCrime.uk</epg_id>
+    <name>|.UK.| REAL LIVES</name>
+  </items>
+  <items>
+    <stream_id>31009</stream_id>
+    <epg_id>Quest.uk</epg_id>
+    <name>|.UK.| QUEST</name>
+  </items>
+  <items>
+    <stream_id>31010</stream_id>
+    <epg_id>SonyMoviesAction.uk</epg_id>
+    <name>|.UK.|D SONY MOVIES ACTION</name>
+  </items>
+  <items>
+    <stream_id>31014</stream_id>
+    <epg_id>CNBC.uk</epg_id>
+    <name>|.UK.| CNBC HD</name>
+  </items>
+  <items>
+    <stream_id>31015</stream_id>
+    <epg_id>Channel5.uk</epg_id>
+    <name>|.UK.| CHANNEL 5 FHD</name>
+  </items>
+  <items>
+    <stream_id>31016</stream_id>
+    <epg_id>Channel5.uk</epg_id>
+    <name>|.UK.| CHANNEL 5</name>
+  </items>
+  <items>
+    <stream_id>31017</stream_id>
+    <epg_id>Channel4.uk</epg_id>
+    <name>|.UK.| CHANNEL 4 FHD</name>
+  </items>
+  <items>
+    <stream_id>31018</stream_id>
+    <epg_id>Channel4.uk</epg_id>
+    <name>|.UK.| CHANNEL 4</name>
+  </items>
+  <items>
+    <stream_id>31019</stream_id>
+    <epg_id>BET.uk</epg_id>
+    <name>|.UK.|D BET</name>
+  </items>
+  <items>
+    <stream_id>31020</stream_id>
+    <epg_id>BBCParliament.uk</epg_id>
+    <name>|.UK.| BBC PARLIAMENT</name>
+  </items>
+  <items>
+    <stream_id>31021</stream_id>
+    <epg_id>BBCAlba.uk</epg_id>
+    <name>|.UK.| BBC ALBA</name>
+  </items>
+  <items>
+    <stream_id>31023</stream_id>
+    <epg_id>FiveUSA.uk</epg_id>
+    <name>|.UK.| 5 USA</name>
+  </items>
+  <items>
+    <stream_id>31026</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.|D CRIME &amp; INVESTIGATION FHD</name>
+  </items>
+  <items>
+    <stream_id>31030</stream_id>
+    <epg_id>5star.uk</epg_id>
+    <name>|.UK.| 5 STAR</name>
+  </items>
+  <items>
+    <stream_id>31031</stream_id>
+    <epg_id>Alibi.uk</epg_id>
+    <name>|.UK.| ALIBI FHD</name>
+  </items>
+  <items>
+    <stream_id>31034</stream_id>
+    <epg_id>BBC2.uk</epg_id>
+    <name>|.UK.| BBC TWO FHD</name>
+  </items>
+  <items>
+    <stream_id>31035</stream_id>
+    <epg_id>BBC4.uk</epg_id>
+    <name>|.UK.| BBC FOUR</name>
+  </items>
+  <items>
+    <stream_id>31046</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| CHALLENGE 1</name>
+  </items>
+  <items>
+    <stream_id>31053</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| E! FHD</name>
+  </items>
+  <items>
+    <stream_id>31054</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.|  E! FHD</name>
+  </items>
+  <items>
+    <stream_id>31062</stream_id>
+    <epg_id>HistoryChannel.uk</epg_id>
+    <name>|.UK.| HISTORY FHD</name>
+  </items>
+  <items>
+    <stream_id>31063</stream_id>
+    <epg_id>DiscoveryHomeHealth.co</epg_id>
+    <name> |.UK.|D HOME &amp; HEALTH  FHD</name>
+  </items>
+  <items>
+    <stream_id>31066</stream_id>
+    <epg_id>ITV2.uk</epg_id>
+    <name>|.UK.| ITV 2</name>
+  </items>
+  <items>
+    <stream_id>31067</stream_id>
+    <epg_id>ITV3.uk</epg_id>
+    <name>|.UK.|  ITV 3</name>
+  </items>
+  <items>
+    <stream_id>31068</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| ITV 4</name>
+  </items>
+  <items>
+    <stream_id>31072</stream_id>
+    <epg_id>NatGeoWild.uk</epg_id>
+    <name>|.UK.| NAT GEO WILD FHD</name>
+  </items>
+  <items>
+    <stream_id>31083</stream_id>
+    <epg_id>SkyMoviesSelect.uk</epg_id>
+    <name>|.UK.| SKY CINEMA SELECT FHD</name>
+  </items>
+  <items>
+    <stream_id>31091</stream_id>
+    <epg_id>SonyMoviesClassic.uk</epg_id>
+    <name>|.UK.|D SONY MOVIES</name>
+  </items>
+  <items>
+    <stream_id>31092</stream_id>
+    <epg_id>Syfy.uk</epg_id>
+    <name>|.UK.| SYFY FHD</name>
+  </items>
+  <items>
+    <stream_id>31094</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| TLC</name>
+  </items>
+  <items>
+    <stream_id>31095</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.| TLC FHD</name>
+  </items>
+  <items>
+    <stream_id>31096</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.| TRAVEL CHANNEL</name>
+  </items>
+  <items>
+    <stream_id>31097</stream_id>
+    <epg_id>100NLTV.nl</epg_id>
+    <name>|.UK.|D TRUE MOVIES 2</name>
+  </items>
+  <items>
+    <stream_id>31098</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.|D UNIVERSAL HD</name>
+  </items>
+  <items>
+    <stream_id>31101</stream_id>
+    <epg_id>BBCNews.uk</epg_id>
+    <name>|.UK.| BBC NEWS FHD</name>
+  </items>
+  <items>
+    <stream_id>31104</stream_id>
+    <epg_id>SkyMoviesDrama.uk</epg_id>
+    <name>|.UK.| SKY CINEMA DRAMA</name>
+  </items>
+  <items>
+    <stream_id>31105</stream_id>
+    <epg_id>TLC.uk</epg_id>
+    <name>|.UK.| TCM HD</name>
+  </items>
+  <items>
+    <stream_id>31107</stream_id>
+    <epg_id>BBCParliament.uk</epg_id>
+    <name>|.UK.| BBC PARLIAMANT</name>
+  </items>
+  <items>
+    <stream_id>40936</stream_id>
+    <epg_id>FoodNetwork.uk</epg_id>
+    <name>|.UK.| FOOD NETWORK</name>
+  </items>
+  <items>
+    <stream_id>40940</stream_id>
+    <epg_id>AnimalPlanet.uk</epg_id>
+    <name>|.UK.| ANIMAL PLANET</name>
+  </items>
+  <items>
+    <stream_id>40942</stream_id>
+    <epg_id>CrimeAndInvestigationNetwork.uk</epg_id>
+    <name>|.UK.| CRIME &amp; INVESTIGATION FHD</name>
+  </items>
+  <items>
+    <stream_id>40945</stream_id>
+    <epg_id>DiscoveryTurbo.uk</epg_id>
+    <name>|.UK.| DISCOVERY TURBO</name>
+  </items>
+  <items>
+    <stream_id>40946</stream_id>
+    <epg_id>DiscoveryTurbo.uk</epg_id>
+    <name>|.UK.| DISCOVERY TURBO HD</name>
+  </items>
+  <items>
+    <stream_id>40947</stream_id>
+    <epg_id>DiscoveryHistory.uk</epg_id>
+    <name>|.UK.| DISCOVERY HISTORY</name>
+  </items>
+  <items>
+    <stream_id>40948</stream_id>
+    <epg_id>DiscoveryShed.uk</epg_id>
+    <name>|.UK.|D DISCOVERY SHED</name>
+  </items>
+  <items>
+    <stream_id>40949</stream_id>
+    <epg_id>DiscoveryScience.uk</epg_id>
+    <name>|.UK.| DISCOVERY SCIENCE</name>
+  </items>
+  <items>
+    <stream_id>40950</stream_id>
+    <epg_id>DiscoveryChannel.uk</epg_id>
+    <name>|.UK.| DISCOVERY</name>
+  </items>
+  <items>
+    <stream_id>40952</stream_id>
+    <epg_id>NatGeo.uk</epg_id>
+    <name>|.UK.| NATIONAL GEOGRAPHIC FHD</name>
+  </items>
+  <items>
+    <stream_id>82757</stream_id>
+    <epg_id>Dave.uk</epg_id>
+    <name>|.UK.| DAVE FHD</name>
+  </items>
+  <items>
+    <stream_id>82758</stream_id>
+    <epg_id>Dave.uk</epg_id>
+    <name>|.UK.| DAVE HD</name>
+  </items>
+  <items>
+    <stream_id>112442</stream_id>
+    <epg_id>DaveJaVu.uk</epg_id>
+    <name>|.UK.FHD|D DAVE JA VU SD</name>
+  </items>
+  <items>
+    <stream_id>112444</stream_id>
+    <epg_id>SkyDocumentaries.uk</epg_id>
+    <name>|.UK.FHD|D SKY DOCUMENTARIES FHD</name>
+  </items>
+  <items>
+    <stream_id>112445</stream_id>
+    <epg_id>ITV1.uk</epg_id>
+    <name>|.UK.FHD| ITV1 FHD</name>
+  </items>
+  <items>
+    <stream_id>112446</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.FHD| SKY ONE FHD</name>
+  </items>
+  <items>
+    <stream_id>112447</stream_id>
+    <epg_id>SkyWitness.uk</epg_id>
+    <name>|.UK.FHD|D SKY WITNESS FHD</name>
+  </items>
+  <items>
+    <stream_id>112448</stream_id>
+    <epg_id>SkyAtlantic.uk</epg_id>
+    <name>|.UK.FHD| SKY ATLANTIC FHD *</name>
+  </items>
+  <items>
+    <stream_id>112449</stream_id>
+    <epg_id>SkyArts.uk</epg_id>
+    <name>|.UK.FHD| SKY ARTS FHD</name>
+  </items>
+  <items>
+    <stream_id>112450</stream_id>
+    <epg_id>SkyCrime.uk</epg_id>
+    <name>|.UK.FHD| SKY CRIME FHD</name>
+  </items>
+  <items>
+    <stream_id>112451</stream_id>
+    <epg_id>W.uk</epg_id>
+    <name>|.UK.FHD| W FHD</name>
+  </items>
+  <items>
+    <stream_id>112452</stream_id>
+    <epg_id>GOLD.uk</epg_id>
+    <name>|.UK.FHD| GOLD FHD</name>
+  </items>
+  <items>
+    <stream_id>112453</stream_id>
+    <epg_id>ComedyCentral.uk</epg_id>
+    <name>|.UK.FHD| COMEDY CENT FHD</name>
+  </items>
+  <items>
+    <stream_id>112454</stream_id>
+    <epg_id>EEntertainment.uk</epg_id>
+    <name>|.UK.FHD| E! FHD</name>
+  </items>
+  <items>
+    <stream_id>112455</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.FHD| FOX FHD</name>
+  </items>
+  <items>
+    <stream_id>112456</stream_id>
+    <epg_id>NatGeoWild.uk</epg_id>
+    <name>|.UK.FHD| NAT GEO WILD FHD</name>
+  </items>
+  <items>
+    <stream_id>112458</stream_id>
+    <epg_id>E4.uk</epg_id>
+    <name>|.UK.FHD| E4 FHD</name>
+  </items>
+  <items>
+    <stream_id>112459</stream_id>
+    <epg_id>More4.uk</epg_id>
+    <name>|.UK.FHD| MORE4 FHD</name>
+  </items>
+  <items>
+    <stream_id>112460</stream_id>
+    <epg_id>4Seven.uk</epg_id>
+    <name>|.UK.FHD| 4SEVEN FHD</name>
+  </items>
+  <items>
+    <stream_id>112461</stream_id>
+    <epg_id>AnimalPlanet.uk</epg_id>
+    <name>|.UK.FHD| ANIMAL PLANT FHD</name>
+  </items>
+  <items>
+    <stream_id>112462</stream_id>
+    <epg_id>ParamountChannel.uk</epg_id>
+    <name>|.UK.FHD| PARAMOUNT FHD</name>
+  </items>
+  <items>
+    <stream_id>112463</stream_id>
+    <epg_id>Eden.uk</epg_id>
+    <name>|.UK.FHD| EDEN FHD</name>
+  </items>
+  <items>
+    <stream_id>112464</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.FHD| LIFETIME FHD</name>
+  </items>
+  <items>
+    <stream_id>112465</stream_id>
+    <epg_id>LoveNature.nl</epg_id>
+    <name>|.UK.FHD|D LOVE NATURE FHD</name>
+  </items>
+  <items>
+    <stream_id>112466</stream_id>
+    <epg_id>BloombergTV.uk</epg_id>
+    <name>|.UK.FHD| BLOOMBERG FHD</name>
+  </items>
+  <items>
+    <stream_id>112467</stream_id>
+    <epg_id>SkyNews.uk</epg_id>
+    <name>|.UK.FHD| SKY NEWS FHD</name>
+  </items>
+  <items>
+    <stream_id>112468</stream_id>
+    <epg_id>NickJunior.uk</epg_id>
+    <name>|.UK.FHD|D NICK FHD</name>
+  </items>
+  <items>
+    <stream_id>112469</stream_id>
+    <epg_id>CBBC.uk</epg_id>
+    <name>|.UK.FHD| CBBC FHD</name>
+  </items>
+  <items>
+    <stream_id>112470</stream_id>
+    <epg_id>BBC2.uk</epg_id>
+    <name>|.UK.FHD| BBC TWO FHD2 (D)</name>
+  </items>
+  <items>
+    <stream_id>112471</stream_id>
+    <epg_id>BBC1.uk</epg_id>
+    <name>|.UK.FHD| BBC ONE FHD2 (D)</name>
+  </items>
+  <items>
+    <stream_id>112473</stream_id>
+    <epg_id>SkySportsMainEvent.uk</epg_id>
+    <name>|.UK.FHD| SKY SPORTS MAIN EVENT FHD</name>
+  </items>
+  <items>
+    <stream_id>112474</stream_id>
+    <epg_id>SkySportsPremiereLeague.uk</epg_id>
+    <name>|.UK.FHD| SKY SPORTS PREMIER LEAGUE FHD</name>
+  </items>
+  <items>
+    <stream_id>112475</stream_id>
+    <epg_id>SkySportsRacing.uk</epg_id>
+    <name>|.UK.FHD| SKY SPORTS RACING FHD (2AM OFF-AUTO BOOT 6.30AM)</name>
+  </items>
+  <items>
+    <stream_id>112476</stream_id>
+    <epg_id>SkySportsNews.uk</epg_id>
+    <name>|.UK.FHD| SKY SPORTS NEWS FHD</name>
+  </items>
+  <items>
+    <stream_id>112477</stream_id>
+    <epg_id>FreeSports.uk</epg_id>
+    <name>|.UK.FHD| FREESPORTS FHD</name>
+  </items>
+  <items>
+    <stream_id>112478</stream_id>
+    <epg_id>PremierSports2.uk</epg_id>
+    <name>|.UK.FHD| PREMIER SPORT 2 FHD</name>
+  </items>
+  <items>
+    <stream_id>112480</stream_id>
+    <epg_id>SonyMax.uk</epg_id>
+    <name>|.UK.FHD| SONY MAX FHD</name>
+  </items>
+  <items>
+    <stream_id>112481</stream_id>
+    <epg_id>StarGold.uk</epg_id>
+    <name>|.UK.FHD|D STAR GOLD FHD</name>
+  </items>
+  <items>
+    <stream_id>112482</stream_id>
+    <epg_id>StarPlus.uk</epg_id>
+    <name>|.UK.FHD|D STAR PLUS FHD</name>
+  </items>
+  <items>
+    <stream_id>112483</stream_id>
+    <epg_id>ZeeCinema.uk</epg_id>
+    <name>|.UK.FHD|D ZEE CINEMA FHD</name>
+  </items>
+  <items>
+    <stream_id>112485</stream_id>
+    <epg_id>ElevenSports1.pt</epg_id>
+    <name>|.UK.FHD|D ELEVEN SPORTS 1 {PORTUGAL FHD}</name>
+  </items>
+  <items>
+    <stream_id>112488</stream_id>
+    <epg_id>PremierSports1.uk</epg_id>
+    <name>|.UK.FHD| PREMIER SPORT 1 FHD (D)</name>
+  </items>
+  <items>
+    <stream_id>112489</stream_id>
+    <epg_id>PremierSports2.uk</epg_id>
+    <name>|.UK.FHD| PREMIER SPORT 2 FHD (D)</name>
+  </items>
+  <items>
+    <stream_id>112492</stream_id>
+    <epg_id>SkyComedy.uk</epg_id>
+    <name>|.UK.FHD| SKY COMEDY FHD (NEW)</name>
+  </items>
+  <items>
+    <stream_id>112496</stream_id>
+    <epg_id>virgin</epg_id>
+    <name>|.UK.FHD| VM Sport FHD (IRE)</name>
+  </items>
+  <items>
+    <stream_id>112497</stream_id>
+    <epg_id>SkyCinemaPremiere.uk</epg_id>
+    <name>|.UK.FHD| SKY CINEMA PREMIER 50FPS FHD</name>
+  </items>
+  <items>
+    <stream_id>112498</stream_id>
+    <epg_id>SkyCinemaHits.uk</epg_id>
+    <name>|.UK.FHD| SKY CINEMA HITS 50FPS FHD</name>
+  </items>
+  <items>
+    <stream_id>112499</stream_id>
+    <epg_id>SkyCinemaFamily.uk</epg_id>
+    <name>|.UK.FHD| SKY CINEMA FAMILY 50FPS FHD</name>
+  </items>
+  <items>
+    <stream_id>112500</stream_id>
+    <epg_id>SkyCinemaComedy.uk</epg_id>
+    <name>|.UK.FHD| SKY CINEMA COMEDY 50FPS FHD</name>
+  </items>
+  <items>
+    <stream_id>112504</stream_id>
+    <epg_id>SkyCinemaDrama.uk</epg_id>
+    <name>|.UK.FHD| SKY CINEMA SCI-FI 50FPS FHD</name>
+  </items>
+  <items>
+    <stream_id>112505</stream_id>
+    <epg_id>SkyCinemaThriller.uk</epg_id>
+    <name>|.UK.FHD| SKY CINEMA THRILLER 50FPS FHD</name>
+  </items>
+  <items>
+    <stream_id>130999</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.FHD| MTV FHD</name>
+  </items>
+  <items>
+    <stream_id>131000</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.FHD| QUEST FHD</name>
+  </items>
+  <items>
+    <stream_id>131001</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.| CRIME+INV FHD</name>
+  </items>
+  <items>
+    <stream_id>131007</stream_id>
+    <epg_id>01TV.fr</epg_id>
+    <name>|.UK.| SKY CINEMA SCI-FI FHD</name>
+  </items>
+</root>
